@@ -1,9 +1,5 @@
 # Databricks notebook source
-dbutils.fs.mount(
-    source= 'wasbs://bronze@storageaccount1430.blob.core.windows.net/',
-    mount_point = '/mnt/bronze',
-    extra_configs = {'fs.azure.account.key.storageaccount1430.blob.core.windows.net':'{secretkey}'}
-)
+
 
 # COMMAND ----------
 
@@ -110,11 +106,6 @@ expenditure_df = create_expenditure_status_column(split_joining_date1)
 
 # COMMAND ----------
 
-dbutils.fs.mount(
-    source= 'wasbs://silver@storageaccount1430.blob.core.windows.net/',
-    mount_point = '/mnt/silver',
-    extra_configs = {'fs.azure.account.key.storageaccount1430.blob.core.windows.net':'{secret key}'}
-)
 
 # COMMAND ----------
 
