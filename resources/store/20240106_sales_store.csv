@@ -1,0 +1,11 @@
+﻿store ID,store name,location,manager_name,phone_number,email_address,opening_date,store_type,created_at,updated_at
+STORE1D2E3F4G,MusicHut,Denver,Robert White,(123) 456-7890,robertwhite@musichut.com,44136,Music & Instruments,11-01-2023,21-12-2023
+STORE5H6I7J8K,ArtisticNest,Phoenix,Laura Green,(456) 789-0123,lauragreen@artisticnest.com,44166,Art Supplies,12-01-2023,20-12-2023
+STOREL9M0N1O2,OutdoorLife,Portland,Steven Gray,(789) 012-3456,stevengray@outdoorlife.com,44197,Outdoor Equipment,13-01-2023,19-12-2023
+STORE3P4Q5R6S,HealthHub,Baltimore,Patricia Adams,(012) 345-6789,patriciaadams@healthhub.com,44228,Health & Wellness,14-01-2023,18-12-2023
+STORE7T8U9V0W,HomeTech,Orlando,Charles Harris,(234) 567-8901,charlesharris@hometech.com,44256,Home Appliances,15-01-2023,17-12-2023
+STOREX1Y2Z3A4,AutoZone,Detroit,Daniel Lee,(345) 678-9012,daniellee@autozone.com,44287,Auto Parts,16-01-2023,16-12-2023
+STORE5B6C7D8E,Fashionista,Philadelphia,Amy Smith,(567) 890-1234,amysmith@fashionista.com,44317,Fashion Accessories,17-01-2023,15-12-2023
+STORE9F0G1H2I,ElectroFusion,San Diego,George Wilson,(678) 901-2345,georgewilson@electrofusion.com,44348,Electrical Supplies,18-01-2023,14-12-2023
+STORE3J4K5L6M,GreenGrocer,Minneapolis,Mary Johnson,(890) 123-4567,maryjohnson@greengrocer.com,44378,Organic Foods,19-01-2023,13-12-2023
+STORE7N8O9P0Q,GameSpot,Charlotte,Andrew Clark,(901) 234-5678,andrewclark@gamespot.com,44409,Video Games,20-01-2023,12-12-2023

@@ -1,0 +1,11 @@
+﻿store ID,store name,location,manager_name,phone_number,email_address,opening_date,store_type,created_at,updated_at
+STORE1A23B4,ElectroMart,New York,John Doe,(123) 456-7890,johndoe@electromart.com,43831,Electronics,01-01-2023,31-12-2023
+STORE5C67D8E,FashionWave,Los Angeles,Jane Smith,(456) 789-0123,janesmith@fashionwave.com,43862,Clothing,02-01-2023,30-12-2023
+STOREA9B1C2D3,HomeGarden,Chicago,Michael Johnson,(789) 012-3456,michaeljohnson@homegarden.com,43891,Home & Garden,03-01-2023,29-12-2023
+STORE4E5F6G7H,BookNest,Houston,Emily Brown,(012) 345-6789,emilybrown@booknest.com,43922,Books,04-01-2023,28-12-2023
+STORE2I3J4K5L,SportZone,Miami,William Wilson,(234) 567-8901,williamwilson@sportzone.com,43952,Sporting Goods,05-01-2023,27-12-2023
+STORE6M7N8O9P,BeautyHaven,San Francisco,Emma Davis,(345) 678-9012,emmadavis@beautyhaven.com,43983,Beauty & Cosmetics,06-01-2023,26-12-2023
+STORE4Q5R6S7T,FurnitureWorld,Dallas,David Miller,(567) 890-1234,davidmiller@furnitureworld.com,44013,Furniture,07-01-2023,25-12-2023
+STORE8U9V1W2,FoodDelight,Atlanta,Susan Wilson,(678) 901-2345,susanwilson@fooddelight.com,44044,Groceries,08-01-2023,24-12-2023
+STORE3X4Y5Z6,ToyPlanet,Seattle,James Anderson,(890) 123-4567,jamesanderson@toyplanet.com,44075,Toys & Games,09-01-2023,23-12-2023
+STORE7A8B9C0,PetParadise,Boston,Linda Clark,(901) 234-5678,lindaclark@petparadise.com,44105,Pet Supplies,10-01-2023,22-12-2023

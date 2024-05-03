@@ -1,0 +1,20 @@
+﻿OrderDate,Category,City,Country,CustomerID,OrderID,PostalCode,Product Id,Profit,Quantity,Region,Sales,Segment,ShipDate,ShipMode,State,latitude,longitude
+2011-01-04T00:00:00.000Z,Office Supplies,Houston,United States,amxjo131,CA-2011-103800,77095,PROD1A23B4,6,2,Central,16,Consumer,2011-01-08T00:00:00.000Z,Standard Class,Texas,29.8941,-95.6481
+2011-01-05T00:00:00.000Z,Office Supplies,Naperville,United States,amxga386,CA-2011-112326,60540,PROD5C67D8E,4,3,Central,12,Home Office,2011-01-09T00:00:00.000Z,Standard Class,Illinois,41.7662,-88.141
+2011-01-05T00:00:00.000Z,Office Supplies,Naperville,United States,amxj944,CA-2011-112326,60540,PRODA9B1C2D3,-5,2,Central,4,Home Office,2011-01-09T00:00:00.000Z,Standard Class,Illinois,41.7662,-88.141
+2011-01-05T00:00:00.000Z,Office Supplies,Naperville,United States,amxer176,CA-2011-112326,60540,PROD4E5F6G7H,-65,3,Central,273,Home Office,2011-01-09T00:00:00.000Z,Standard Class,Illinois,41.7662,-88.141
+2011-01-06T00:00:00.000Z,Office Supplies,Philadelphia,United States,amxwi427,CA-2011-141817,19143,PROD2I3J4K5L,5,3,East,20,Consumer,2011-01-13T00:00:00.000Z,Standard Class,Pennsylvania,39.9448,-75.2288
+2011-01-07T00:00:00.000Z,Furniture,Henderson,United States,amxni228,CA-2011-167199,42420,PROD6M7N8O9P,746,9,South,2574,Home Office,2011-01-11T00:00:00.000Z,Standard Class,Kentucky,37.8274,-87.5632
+2011-01-07T00:00:00.000Z,Office Supplies,Athens,United States,amxda980,CA-2011-106054,30605,PROD4Q5R6S7T,5,3,South,13,Corporate,2011-01-08T00:00:00.000Z,First Class,Georgia,33.9321,-83.3525
+2011-01-07T00:00:00.000Z,Office Supplies,Henderson,United States,amxja889,CA-2011-167199,42420,PROD8U9V1W2,0,4,South,31,Home Office,2011-01-11T00:00:00.000Z,Standard Class,Kentucky,37.8274,-87.5632
+2011-01-07T00:00:00.000Z,Office Supplies,Henderson,United States,amxke695,CA-2011-167199,42420,PROD3X4Y5Z6,274,2,South,610,Home Office,2011-01-11T00:00:00.000Z,Standard Class,Kentucky,37.8274,-87.5632
+2011-01-07T00:00:00.000Z,Office Supplies,Henderson,United States,amxda573,CA-2011-167199,42420,PROD7A8B9C0,1,2,South,5,Home Office,2011-01-11T00:00:00.000Z,Standard Class,Kentucky,37.8274,-87.5632
+2011-01-07T00:00:00.000Z,Office Supplies,Henderson,United States,amxja322,CA-2011-167199,42420,PROD1A23B4,3,1,South,7,Home Office,2011-01-11T00:00:00.000Z,Standard Class,Kentucky,37.8274,-87.5632
+2011-01-07T00:00:00.000Z,Office Supplies,Los Angeles,United States,amxjo185,CA-2011-130813,90049,PROD5C67D8E,9,3,West,19,Consumer,2011-01-09T00:00:00.000Z,Second Class,California,34.066,-118.474
+2011-01-07T00:00:00.000Z,Technology,Henderson,United States,amxom769,CA-2011-167199,42420,PRODA9B1C2D3,114,2,South,392,Home Office,2011-01-11T00:00:00.000Z,Standard Class,Kentucky,37.8274,-87.5632
+2011-01-07T00:00:00.000Z,Technology,Henderson,United States,amxni473,CA-2011-167199,42420,PROD4E5F6G7H,204,4,South,756,Home Office,2011-01-11T00:00:00.000Z,Standard Class,Kentucky,37.8274,-87.5632
+2011-01-08T00:00:00.000Z,Furniture,Huntsville,United States,amxja753,CA-2011-105417,77340,PROD2I3J4K5L,-54,3,Central,77,Consumer,2011-01-13T00:00:00.000Z,Standard Class,Texas,30.6448,-95.5798
+2011-01-08T00:00:00.000Z,Office Supplies,Huntsville,United States,amxda257,CA-2011-105417,77340,PROD6M7N8O9P,-18,7,Central,10,Consumer,2011-01-13T00:00:00.000Z,Standard Class,Texas,30.6448,-95.5798
+2011-01-10T00:00:00.000Z,Office Supplies,Laredo,United States,amxki513,CA-2011-135405,78041,PROD4Q5R6S7T,1,2,Central,9,Consumer,2011-01-14T00:00:00.000Z,Standard Class,Texas,27.5569,-99.4907
+2011-01-10T00:00:00.000Z,Technology,Laredo,United States,amxco721,CA-2011-135405,78041,PROD8U9V1W2,10,3,Central,31,Consumer,2011-01-14T00:00:00.000Z,Standard Class,Texas,27.5569,-99.4907
+2011-01-11T00:00:00.000Z,Furniture,Springfield,United States,amxma249,CA-2011-149020,22153,PROD3X4Y5Z6,21,1,South,52,Corporate,2011-01-16T00:00:00.000Z,Standard Class,Virginia,38.7449,-77.237

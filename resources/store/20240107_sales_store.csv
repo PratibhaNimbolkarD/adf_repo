@@ -1,0 +1,5 @@
+﻿store ID,store name,location,manager_name,phone_number,email_address,opening_date,store_type,created_at,updated_at
+STORE6M7N8O9P,BeautyHaven,Seattle,Emma Davis,(345) 678-9012,emmadavis@beautyhaven.com,43983,Beauty & Cosmetics,06-01-2023,26-12-2023
+STORE8U9V1W2,FoodDelight,Scottland,Susan Wilson,(678) 901-2345,susanwilson@fooddelight.com,44044,Groceries,08-01-2023,24-12-2023
+STORE3X4Y5Z6,ToyPlanet,Seattle,Jojathana Anderson,(890) 123-4567,jojathanaanderson@toyplanet.com,44075,Toys & Games,09-01-2023,23-12-2023
+STORE7A8B9C0,PetParadise,Boston,Linda andrewson,(901) 234-5678,lindaandrewson@petparadise.com,44105,Pet Supplies,10-01-2023,22-12-2023

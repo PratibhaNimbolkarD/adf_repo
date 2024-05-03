@@ -1,0 +1,21 @@
+﻿OrderDate,Category,City,Country,CustomerID,OrderID,PostalCode,Product Id,Profit,Quantity,Region,Sales,Segment,ShipDate,ShipMode,State,latitude,longitude
+2011-01-20T00:00:00.000Z,Furniture,Scottsdale,United States,amxom769,CA-2011-146591,85254,PROD4Q5R6S7T,-321,5,West,181,Consumer,2011-01-21T00:00:00.000Z,First Class,Arizona,33.6165,-111.9554
+2011-01-20T00:00:00.000Z,Office Supplies,Scottsdale,United States,amxni473,CA-2011-146591,85254,PROD8U9V1W2,-24,10,West,32,Consumer,2011-01-21T00:00:00.000Z,First Class,Arizona,33.6165,-111.9554
+2011-01-20T00:00:00.000Z,Office Supplies,Scottsdale,United States,amxjo648,CA-2011-146591,85254,PROD3X4Y5Z6,20,4,West,56,Consumer,2011-01-21T00:00:00.000Z,First Class,Arizona,33.6165,-111.9554
+2011-01-20T00:00:00.000Z,Office Supplies,Scottsdale,United States,amxan256,CA-2011-146591,85254,PROD7A8B9C0,37,5,West,109,Consumer,2011-01-21T00:00:00.000Z,First Class,Arizona,33.6165,-111.9554
+2011-01-21T00:00:00.000Z,Furniture,Jonesboro,United States,amxti476,US-2011-147627,72401,PROD1A23B4,12,4,South,39,Consumer,2011-01-27T00:00:00.000Z,Standard Class,Arkansas,35.833,-90.6965
+2011-01-21T00:00:00.000Z,Furniture,Jonesboro,United States,amxky170,US-2011-147627,72401,PROD5C67D8E,224,3,South,1068,Consumer,2011-01-27T00:00:00.000Z,Standard Class,Arkansas,35.833,-90.6965
+2011-01-21T00:00:00.000Z,Furniture,Los Angeles,United States,amxan256,CA-2011-148614,90049,PRODA9B1C2D3,6,2,West,19,Consumer,2011-01-26T00:00:00.000Z,Standard Class,California,34.066,-118.474
+2011-01-21T00:00:00.000Z,Furniture,Westland,United States,amxti476,CA-2011-167927,48185,PROD1A23B4,30,3,Central,273,Consumer,2011-01-27T00:00:00.000Z,Standard Class,Michigan,42.3358,-83.3846
+2011-01-21T00:00:00.000Z,Furniture,Westland,United States,amxky170,CA-2011-167927,48185,PROD5C67D8E,5,3,Central,15,Consumer,2011-01-27T00:00:00.000Z,Standard Class,Michigan,42.3358,-83.3846
+2011-01-21T00:00:00.000Z,Office Supplies,Jonesboro,United States,amxco721,US-2011-147627,72401,PRODA9B1C2D3,2,3,South,7,Consumer,2011-01-27T00:00:00.000Z,Standard Class,Arkansas,35.833,-90.6965
+2011-01-21T00:00:00.000Z,Office Supplies,Jonesboro,United States,amxma249,US-2011-147627,72401,PROD7A8B9C0,7,7,South,23,Consumer,2011-01-27T00:00:00.000Z,Standard Class,Arkansas,35.833,-90.6965
+2011-01-21T00:00:00.000Z,Office Supplies,Jonesboro,United States,amxar881,US-2011-147627,72401,PROD1A23B4,11,3,South,23,Consumer,2011-01-27T00:00:00.000Z,Standard Class,Arkansas,35.833,-90.6965
+2011-01-21T00:00:00.000Z,Office Supplies,Los Angeles,United States,amxra702,CA-2011-148614,90049,PROD5C67D8E,9,2,West,19,Consumer,2011-01-26T00:00:00.000Z,Standard Class,California,34.066,-118.474
+2011-01-21T00:00:00.000Z,Office Supplies,Smyrna,United States,amxti476,US-2011-147774,37167,PRODA9B1C2D3,-52,1,South,67,Corporate,2011-01-27T00:00:00.000Z,Standard Class,Tennessee,35.9656,-86.5048
+2011-01-21T00:00:00.000Z,Office Supplies,Westland,United States,amxky170,CA-2011-167927,48185,PROD4E5F6G7H,9,5,Central,19,Consumer,2011-01-27T00:00:00.000Z,Standard Class,Michigan,42.3358,-83.3846
+2011-01-21T00:00:00.000Z,Office Supplies,Westland,United States,amxan256,CA-2011-167927,48185,PROD7A8B9C0,4,1,Central,14,Consumer,2011-01-27T00:00:00.000Z,Standard Class,Michigan,42.3358,-83.3846
+2011-01-21T00:00:00.000Z,Office Supplies,Westland,United States,amxti476,CA-2011-167927,48185,PROD1A23B4,16,2,Central,67,Consumer,2011-01-27T00:00:00.000Z,Standard Class,Michigan,42.3358,-83.3846
+2011-01-21T00:00:00.000Z,Office Supplies,Westland,United States,amxky170,CA-2011-167927,48185,PROD5C67D8E,94,4,Central,248,Consumer,2011-01-27T00:00:00.000Z,Standard Class,Michigan,42.3358,-83.3846
+2011-01-21T00:00:00.000Z,Office Supplies,Westland,United States,amxco721,CA-2011-167927,48185,PRODA9B1C2D3,13,3,Central,44,Consumer,2011-01-27T00:00:00.000Z,Standard Class,Michigan,42.3358,-83.3846
+2011-01-21T00:00:00.000Z,Office Supplies,Westland,United States,amxma249,CA-2011-167927,48185,PROD4E5F6G7H,13,5,Central,30,Consumer,2011-01-27T00:00:00.000Z,Standard Class,Michigan,42.3358,-83.3846

@@ -1,0 +1,21 @@
+﻿OrderDate,Category,City,Country,CustomerID,OrderID,PostalCode,Product Id,Profit,Quantity,Region,Sales,Segment,ShipDate,ShipMode,State,latitude,longitude
+2011-01-11T00:00:00.000Z,Office Supplies,Springfield,United States,amxar881,CA-2011-149020,22153,PROD7A8B9C0,1,1,South,3,Corporate,2011-01-16T00:00:00.000Z,Standard Class,Virginia,38.7449,-77.237
+2011-01-12T00:00:00.000Z,Furniture,Dover,United States,amxra702,CA-2011-130092,19901,PROD1A23B4,3,2,East,10,Consumer,2011-01-15T00:00:00.000Z,First Class,Delaware,39.1564,-75.4955
+2011-01-14T00:00:00.000Z,Furniture,Mount Pleasant,United States,amxti476,CA-2011-109232,29464,PROD5C67D8E,87,6,South,546,Consumer,2011-01-17T00:00:00.000Z,Second Class,South Carolina,32.8473,-79.8206
+2011-01-14T00:00:00.000Z,Furniture,San Francisco,United States,amxky170,CA-2011-157147,94109,PRODA9B1C2D3,4,3,West,334,Consumer,2011-01-19T00:00:00.000Z,Standard Class,California,37.7917,-122.4186
+2011-01-14T00:00:00.000Z,Office Supplies,Bossier City,United States,amxjo648,CA-2011-162775,71111,PROD1A23B4,25,3,South,51,Corporate,2011-01-16T00:00:00.000Z,Second Class,Louisiana,32.5449,-93.7038
+2011-01-14T00:00:00.000Z,Office Supplies,Bossier City,United States,amxan256,CA-2011-162775,71111,PROD5C67D8E,34,6,South,573,Corporate,2011-01-16T00:00:00.000Z,Second Class,Louisiana,32.5449,-93.7038
+2011-01-14T00:00:00.000Z,Office Supplies,Bossier City,United States,amxda257,CA-2011-162775,71111,PRODA9B1C2D3,5,2,South,11,Corporate,2011-01-16T00:00:00.000Z,Second Class,Louisiana,32.5449,-93.7038
+2011-01-14T00:00:00.000Z,Office Supplies,Bossier City,United States,amxki513,CA-2011-162775,71111,PROD4E5F6G7H,3,3,South,6,Corporate,2011-01-16T00:00:00.000Z,Second Class,Louisiana,32.5449,-93.7038
+2011-01-14T00:00:00.000Z,Office Supplies,Newark,United States,amxer904,CA-2011-118192,43055,PROD2I3J4K5L,-3,2,East,3,Consumer,2011-01-19T00:00:00.000Z,Standard Class,Ohio,40.0724,-82.4046
+2011-01-14T00:00:00.000Z,Office Supplies,Newark,United States,amxja681,CA-2011-118192,43055,PROD6M7N8O9P,13,7,East,37,Consumer,2011-01-19T00:00:00.000Z,Standard Class,Ohio,40.0724,-82.4046
+2011-01-14T00:00:00.000Z,Office Supplies,San Francisco,United States,amxde324,CA-2011-157147,94109,PROD4Q5R6S7T,7,5,West,20,Consumer,2011-01-19T00:00:00.000Z,Standard Class,California,37.7917,-122.4186
+2011-01-14T00:00:00.000Z,Office Supplies,San Francisco,United States,amxdi438,CA-2011-157147,94109,PROD8U9V1W2,239,5,West,1326,Consumer,2011-01-19T00:00:00.000Z,Standard Class,California,37.7917,-122.4186
+2011-01-14T00:00:00.000Z,Technology,Bossier City,United States,amxco721,CA-2011-162775,71111,PROD3X4Y5Z6,259,6,South,647,Corporate,2011-01-16T00:00:00.000Z,Second Class,Louisiana,32.5449,-93.7038
+2011-01-15T00:00:00.000Z,Furniture,Philadelphia,United States,amxma249,CA-2011-149524,19140,PROD7A8B9C0,-53,4,East,62,Corporate,2011-01-16T00:00:00.000Z,First Class,Pennsylvania,40.0118,-75.1456
+2011-01-16T00:00:00.000Z,Technology,Roswell,United States,amxco721,CA-2011-103366,30076,PROD1A23B4,66,5,South,150,Consumer,2011-01-18T00:00:00.000Z,First Class,Georgia,34.0213,-84.3104
+2011-01-17T00:00:00.000Z,Furniture,Philadelphia,United States,amxma249,CA-2011-115791,19134,PROD5C67D8E,29,6,East,127,Consumer,2011-01-19T00:00:00.000Z,Second Class,Pennsylvania,39.9925,-75.1133
+2011-01-17T00:00:00.000Z,Office Supplies,Philadelphia,United States,amxar881,CA-2011-115791,19134,PRODA9B1C2D3,-14,2,East,19,Consumer,2011-01-19T00:00:00.000Z,Second Class,Pennsylvania,39.9925,-75.1133
+2011-01-17T00:00:00.000Z,Office Supplies,Philadelphia,United States,amxra702,CA-2011-115791,19134,PROD4E5F6G7H,10,3,East,30,Consumer,2011-01-19T00:00:00.000Z,Second Class,Pennsylvania,39.9925,-75.1133
+2011-01-17T00:00:00.000Z,Technology,Philadelphia,United States,amxti476,CA-2011-115791,19134,PROD2I3J4K5L,-31,3,East,124,Consumer,2011-01-19T00:00:00.000Z,Second Class,Pennsylvania,39.9925,-75.1133
+2011-01-19T00:00:00.000Z,Office Supplies,Springfield,United States,amxky170,CA-2011-123477,97477,PROD6M7N8O9P,6,4,West,65,Corporate,2011-01-22T00:00:00.000Z,Second Class,Oregon,44.0611,-123.0153

@@ -1,0 +1,4 @@
+﻿product ID,product name,product code,description,category_id,price,stock_quantity,supplier_id,created_at,updated_at,image_url,weight,expiry_date,is_active,tax_rate,store_id
+PROD1A23B4,Apple iPhone 12,IPHN56,The latest iPhone model,1,999.99,100,101,01-01-2023,31-12-2023,https://example.com/iphone12.jpg,0.5 kg,,1,5,STORE1D2E3F4G
+PROD5C67D8E,Samsung Galaxy S21,SGS21,High-performance  smartphone,1,1800,150,102,02-01-2023,30-12-2023,https://example.com/galaxys21.jpg,0.6 kg,,1,4.5,STORE5H6I7J8K
+PRODA9B1C2D3,HP Pavilion Laptop,HPVPLP,Powerful laptop for work,2,1200,80,103,03-01-2023,29-12-2023,https://example.com/hppavilion.jpg,2.0 kg,,1,5,STOREL9M0N1O2
