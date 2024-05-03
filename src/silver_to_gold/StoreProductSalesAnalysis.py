@@ -36,11 +36,7 @@ final_df = merged_prodcust_custsale_df.select("OrderDate","Category","City","Cus
 
 # COMMAND ----------
 
-dbutils.fs.mount(
-    source = 'wasbs://gold@storageaccount1430.blob.core.windows.net/',
-    mount_point = '/mnt/gold',
-    extra_configs = {'fs.azure.account.key.storageaccount1430.blob.core.windows.net':'{secret key}'}
- )
+
 
 # COMMAND ----------
 
